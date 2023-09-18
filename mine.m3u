@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, M4 Sport
+https://nettv.flynet.hu:443/live/m4sporthd.m3u8
+#EXTINF:-1, Cool Tv
+https://nettv.flynet.hu:443/live/cooltvhd.m3u8
+#EXTINF:-1, Comedy Central
+https://nettv.flynet.hu:443/live/comedycentralhungary.m3u8
+#EXTINF:-1, Comedy Central Family
+https://nettv.flynet.hu:443/live/comedycentralfamily.m3u8
+#EXTINF:-1, Film+
+https://nettv.flynet.hu:443/live/film+hd.m3u8
+#EXTINF:-1, RTL 2
+https://stream.flynet.hu:443/live/rtlkettOhd.m3u8
+#EXTINF: -1, TV4
+https://nettv.flynet.hu:443/live/tv4.m3u8
+#EXTINF: -1, Viasat 3
+https://nettv.flynet.hu:443/live/viasat3.m3u8
+#EXTINF: -1, Viasat 6
+https://nettv.flynet.hu:443/live/viasat6.m3u8
+#EXTINF: -1, AXN
+https://nettv.flynet.hu:443/live/axn.m3u8
+#EXTINF: -1, TV2
+https://nettv.flynet.hu:443/live/tv2hd.m3u8
+#EXTINF: -1, Discovery Channel
+https://nettv.flynet.hu:443/live/discoverychannelhd.m3u8
+#EXTINF: -1, TLC
+https://nettv.flynet.hu:443/live/tlc.m3u8
